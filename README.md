@@ -27,8 +27,8 @@ Investigar hipóteses sobre os fatores que impactam o rating médio dos produtos
 - [`dataset_final.csv`](dataset_final.csv) — Base de dados consolidada e tratada  
 - [`dashboard04.py`](dashboard04.py) — Código para dashboard interativo  
 - [`notebook04.ipynb`](notebook04.ipynb) — Notebook com análises exploratórias, testes de hipóteses e regressões  
-- [`bruna-derner-fichatec.04`](bruna-derner-fichatec.04) — Ficha técnica do projeto  
-- [`bruna-derner.proj04`](bruna-derner.proj04) — Apresentação do projeto 
+- [`bruna-derner-fichatec.04.pdf`](bruna-derner-fichatec.04) — Ficha técnica do projeto  
+- [`bruna-derner.proj04.pdf`](bruna-derner.proj04) — Apresentação do projeto 
 
 ## Metodologia
 
