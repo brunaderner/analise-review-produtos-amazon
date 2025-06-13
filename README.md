@@ -17,16 +17,18 @@ Investigar hipóteses sobre os fatores que impactam o rating médio dos produtos
 - **Ambiente de Desenvolvimento**: Visual Studio Code + Jupyter Notebook (`notebook04.ipynb`)
 
 ## Estrutura do Projeto
-
-- `assets/`: Arquivos visuais e de estilo (GIF de introdução, CSS)  
-- `pages/`: Páginas de código Python para construção do dashboard e análise:
+- `dashboard/`
+  - `assets/`: Arquivos visuais e de estilo (GIF de introdução, CSS)  
+  - `pages/`: Páginas de código Python para construção do dashboard e análise:
   - `geral.py` — Análise geral  
   - `home.py` — Página inicial  
   - `nlp.py` — Análise de sentimentos e NLP  
   - `quartil1.py` — Análise específica do primeiro quartil de ratings  
-- `dataset_final.csv`: Base de dados consolidada e tratada  
-- `dashboard04.py`: Código para dashboard interativo  
-- `notebook04.ipynb`: Notebook com análises exploratórias, testes de hipóteses e regressões   
+- [`dataset_final.csv`](dataset_final.csv) — Base de dados consolidada e tratada  
+- [`dashboard04.py`](dashboard04.py) — Código para dashboard interativo  
+- [`notebook04.ipynb`](notebook04.ipynb) — Notebook com análises exploratórias, testes de hipóteses e regressões  
+- [`bruna-derner-fichatec.04`](bruna-derner-fichatec.04) — Ficha técnica do projeto  
+- [`bruna-derner.proj04`](bruna-derner.proj04) — Apresentação do projeto 
 
 ## Metodologia
 
