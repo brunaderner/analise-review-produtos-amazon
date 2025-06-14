@@ -28,7 +28,8 @@ Investigar hipóteses sobre os fatores que impactam o rating médio dos produtos
 - [`dashboard04.py`](dashboard04.py) — Código para dashboard interativo  
 - [`notebook04.ipynb`](notebook04.ipynb) — Notebook com análises exploratórias, testes de hipóteses e regressões  
 - [`bruna-derner-fichatec.04.pdf`](bruna-derner-fichatec.04.pdf) — Ficha técnica do projeto  
-- [`bruna-derner.proj04.pdf`](bruna-derner.proj04.pdf) — Apresentação do projeto 
+- [`bruna-derner.proj04.pdf`](bruna-derner.proj04.pdf) — Apresentação do projeto
+- [`bruna-derner.query04.sql`](bruna-derner.query04.sql) — Query do projeto
 
 ## Metodologia
 
@@ -57,6 +58,12 @@ Investigar hipóteses sobre os fatores que impactam o rating médio dos produtos
 - **Sentimento e categoria influenciam fortemente o Q1:** Produtos com maior proporção de sentimentos negativos e determinadas categorias (Electronics, Home&Kitchen) apresentaram maior probabilidade de figurar no primeiro quartil de avaliações (Q1).
 
 - **Características combinadas:** A regressão múltipla confirmou que sentimento positivo, número de avaliações, preço e categoria explicam parte relevante da variação no rating (R² = 17,5%).
+
+## Vídeo de Apresentação - Loom
+
+Assista à apresentação completa:
+
+[![Assista ao vídeo no Loom](https://img.shields.io/badge/Ver%20Apresenta%C3%A7%C3%A3o-Loom-%23F9C646?style=for-the-badge&logo=loom)](https://www.loom.com/share/e337d0fb45924b838c5c0989b5e3bd80?sid=cb527506-4574-43bb-83a3-932c2f1803ad)
 
 ## Autora
 
